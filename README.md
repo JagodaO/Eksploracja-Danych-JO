@@ -11,7 +11,6 @@ Download Jagoda_Ociesa-Global_Terrorism_Project.ipynb from this repository and s
 
 Download anaconda, from https://www.anaconda.com/distribution/. Find Anaconda Navigator and start it.
 
-Open jupyter notebook through anaconda and choose Jagoda_Ociesa-Global_Terrorism_Project.ipynb. After the project is finished loading click kernel and then Restart & Run All.
-
+Open jupyter notebook through anaconda and choose Jagoda_Ociesa-Global_Terrorism_Project.ipynb. After the project is finished loading click Kernel and then Restart & Run All.
 
 Have fun :)
