@@ -1,1 +1,2 @@
-# Eksploracja-Danych-JO
+# Miniproject - Global Terrorism Database
+
